@@ -24,6 +24,6 @@ hs_err_pid*
 
 # Specific Files and Folders
 /out
-/.idea
+.idea
 *.iml
 *.xml
